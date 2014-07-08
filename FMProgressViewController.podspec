@@ -13,6 +13,8 @@ Pod::Spec.new do |s|
   s.summary          = "A view controller that can reflect progress within a navigation controller's navbar."
   s.description      = <<-DESC
                        A view controller that can reflect progress within a navigation controller's navbar.
+                       
+                       Designed for iOS7+.
                        DESC
   s.homepage         = "https://github.com/formal-method/FMProgressViewController"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
