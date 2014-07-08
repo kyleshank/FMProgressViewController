@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.license          = 'MIT'
   s.author           = { "Kyle Shank" => "kyle@formalmethod.net" }
   s.source           = { :git => "https://github.com/formal-method/FMProgressViewController.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/formal_method'
+  s.social_media_url = 'https://twitter.com/formal_method'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
