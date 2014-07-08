@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/cocoapods/l/FMProgressViewController.svg?style=flat)](http://cocoadocs.org/docsets/FMProgressViewController)
 [![Platform](https://img.shields.io/cocoapods/p/FMProgressViewController.svg?style=flat)](http://cocoadocs.org/docsets/FMProgressViewController)
 
+![FMProgressViewController](screenshot.png)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
