@@ -1,0 +1,28 @@
+PODS:
+  - Expecta (0.3.1)
+  - EXPMatchers+FBSnapshotTest (1.1.0):
+    - Expecta
+    - FBSnapshotTestCase
+  - FBSnapshotTestCase (1.1)
+  - FMProgressViewController (0.1.0)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - Expecta
+  - EXPMatchers+FBSnapshotTest
+  - FBSnapshotTestCase
+  - FMProgressViewController (from `../`)
+  - Specta (~> 0.2.1)
+
+EXTERNAL SOURCES:
+  FMProgressViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  EXPMatchers+FBSnapshotTest: fcc428d6a5d4410c1711aeda4456c9c5e93f98d3
+  FBSnapshotTestCase: 9053afee1d66b4c7c313fcb0ae582a5e47bea9d0
+  FMProgressViewController: 9b3d855434f78390d32c8bcc76d4c9c2aac3913e
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.33.1

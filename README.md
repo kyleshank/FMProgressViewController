@@ -1,6 +1,5 @@
 # FMProgressViewController
 
-[![CI Status](http://img.shields.io/travis/Kyle Shank/FMProgressViewController.svg?style=flat)](https://travis-ci.org/Kyle Shank/FMProgressViewController)
 [![Version](https://img.shields.io/cocoapods/v/FMProgressViewController.svg?style=flat)](http://cocoadocs.org/docsets/FMProgressViewController)
 [![License](https://img.shields.io/cocoapods/l/FMProgressViewController.svg?style=flat)](http://cocoadocs.org/docsets/FMProgressViewController)
 [![Platform](https://img.shields.io/cocoapods/p/FMProgressViewController.svg?style=flat)](http://cocoadocs.org/docsets/FMProgressViewController)
@@ -20,7 +19,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Kyle Shank, kyle.shank@gmail.com
+Kyle Shank, kyle@formalmethod.net
 
 ## License
 

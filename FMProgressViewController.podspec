@@ -10,19 +10,16 @@
 Pod::Spec.new do |s|
   s.name             = "FMProgressViewController"
   s.version          = "0.1.0"
-  s.summary          = "A short description of FMProgressViewController."
+  s.summary          = "A view controller that can reflect progress within a navigation controller's navbar."
   s.description      = <<-DESC
-                       An optional longer description of FMProgressViewController
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                       A view controller that can reflect progress within a navigation controller's navbar.
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/FMProgressViewController"
+  s.homepage         = "https://github.com/formal-method/FMProgressViewController"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Kyle Shank" => "kyle.shank@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/FMProgressViewController.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { "Kyle Shank" => "kyle@formalmethod.net" }
+  s.source           = { :git => "https://github.com/formal-method/FMProgressViewController.git", :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/formal_method'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
